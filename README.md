@@ -1,8 +1,8 @@
 # $ whoami
 
-Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+Hi folks, I'm Fla! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
-I'm a Software Engineer based in Brazil who loves cats and playing Teamfight Tactics 🎮 
+A Software Engineer based in Brazil who loves cats and playing Teamfight Tactics 🎮 
 
 <span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavianunes&show_icons=true&count_private=true" />
