@@ -1,6 +1,6 @@
 # $ whoami
 
-Hi folks, I'm Fla! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+Hi folks, I'm Fla! 👋
 
 A Software Engineer based in Brazil who loves cats and playing Teamfight Tactics 🎮 
 
