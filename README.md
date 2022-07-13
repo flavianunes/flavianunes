@@ -12,7 +12,7 @@ My name is Flavia, I'm a Brazillian front-end software engineer passionate about
 
 
 ## interests :book:
--  Design Systems, Front-end Development, Accessibility, Animations
+-  Design Systems, Front-end Development, Accessibility, UX
 -  CSS, JavaScript,TypeScript, React, Vue.js, Remix
 
 
