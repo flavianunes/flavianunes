@@ -1,8 +1,20 @@
 # $ whoami
 
-Hi folks, I'm Fla! 👋
+Hey there! My name is Flavia, I'm a Brazillian front-end software engineer passionate about building good UI, accessibility and playing The Sims <img src="https://user-images.githubusercontent.com/18708262/178744417-e7e42204-a4e6-44df-858d-e1789de90e20.png" alt="" width="10"/>
 
-A Software Engineer based in Brazil who loves cats and playing Teamfight Tactics 🎮 
+<p>
+  <a href="https://www.linkedin.com/in/flavianunesm/">Linkedin</a><br/>
+  <a href="mailto:contato@flavianunes.dev.dev">Contact me ✉️</a>
+</p>
+
+
+
+## interests :book:
+-  Design Systems, Front-end Development, Accessibility, Animations
+-  CSS, JavaScript,TypeScript, React, Vue.js, Remix
+
+
+## stats :octocat:
 
 <span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavianunes&show_icons=true&count_private=true" />
