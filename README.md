@@ -17,13 +17,6 @@ My name is Flavia, I'm a Brazillian front-end software engineer passionate about
 -  CSS, JavaScript,TypeScript, React, Vue.js, Remix
 
 
-## stats :octocat:
-
-<span>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavianunes&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavianunes&layout=compact&count_private=true&exclude_repo=escape-covid" />
- </span>
-
 
 
 <!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
