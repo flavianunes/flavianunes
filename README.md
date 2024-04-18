@@ -5,7 +5,6 @@ Hey there!
 My name is Flavia, I'm a Brazillian front-end software engineer passionate about building good UI, accessibility and playing The Sims <img src="https://user-images.githubusercontent.com/18708262/178744417-e7e42204-a4e6-44df-858d-e1789de90e20.png" alt="" width="10"/>
 
 <p>
-  <a href="https://flavianunes.dev/"> Blog</a><br/>
   <a href="https://www.linkedin.com/in/flavianunesm/">Linkedin</a><br/>
   <a href="mailto:contato@flavianunes.dev.dev">Contact me ✉️</a>
 </p>
